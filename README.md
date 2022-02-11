@@ -20,5 +20,5 @@ git clone https://github.com/Aravindviswak/javaprojects.git cd my-project
 After project come reside into your local system run the FacebookAppView.java, file you can able to use the App choose your option as the console direct and you good to use the app
 
 ## Contributors:
-1.Aravindachary Vadla
+Aravindachary Vadla
 
